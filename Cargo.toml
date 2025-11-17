@@ -1,0 +1,16 @@
+[package]
+name = "rdu"
+version = "0.1.0"
+edition = "2024"
+authors = ["Pebrian pebrianz117@gmail.com"]
+description = "Terminal disk usage analyzer built with Rust and Ratatui, similar to ncdu."
+readme = "README.md"
+repository = "https://github.com/pebrianz/rdu"
+license = "GPL-3.0"
+
+[dependencies]
+clap = "4.5.51"
+crossterm = "0.29.0"
+ratatui = "0.29.0"
+unicode-width = "0.2.0"
+windows-sys = "0.61.2"
