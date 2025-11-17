@@ -11,4 +11,5 @@ RDU is a terminal-based disk usage analyzer written in Rust, built on top of [Ra
 - Written entirely in Rust, leveraging the [Ratatui](https://github.com/ratatui/ratatui) library
 
 ![screenshot](./screenshot%20(2).png)
-[video](./video.mp4)
+---
+![gif](./video.gif)
